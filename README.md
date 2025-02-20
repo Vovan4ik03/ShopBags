@@ -15,4 +15,4 @@ php artisan serve
 ```
 ### Autor 
 - Done by student Makarov Volodymyr
-- [LINCENCE](https://github.com/vovan4ik1/ShopBags?tab=MIT-1-ov-file)
+- [License](https://github.com/vovan4ik1/ShopBags?tab=MIT-1-ov-file)
