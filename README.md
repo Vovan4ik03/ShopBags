@@ -18,14 +18,13 @@ php artisan serve
 - [License](https://github.com/vovan4ik1/ShopBags?tab=MIT-1-ov-file)
 
 # License
-- **Ліцензія:** MIT
-- **Результат перевірки:** [📜 License Report](license-report.txt)
+- **License:** MIT
+- **Result:** [📜 License Report](license-report.txt)
 
 # Cookie Popup (GDPR)
-- **Функціонал:** Відображення повідомлення про використання файлів cookie
-- **Інструменти:** `cookieconsent`
+- **Tool:** `cookieconsent`
 
-**Приклад у `navigation.php`:**
+**Example `navigation.php`:**
 ```php
 <script src="cookieconsent.min.js"></script>
 <script>
@@ -36,3 +35,6 @@ php artisan serve
     });
   });
 </script>
+
+# Privacy policy
+[📜 User Guide]()
