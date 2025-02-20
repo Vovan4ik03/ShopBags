@@ -17,11 +17,11 @@ php artisan serve
 - Done by student Makarov Volodymyr
 - [License](https://github.com/vovan4ik1/ShopBags?tab=MIT-1-ov-file)
 
-### 2. License
+# License
 - **Ліцензія:** MIT
-- **Результат перевірки:** Закомічити у файл `license-report.txt`
+- **Результат перевірки:** [📜 License Report](license-report.txt)
 
-### 3. Cookie Popup (GDPR)
+# Cookie Popup (GDPR)
 - **Функціонал:** Відображення повідомлення про використання файлів cookie
 - **Інструменти:** `cookieconsent` або `klaro`
 - **Імплементація:** Додати у `header.php`
