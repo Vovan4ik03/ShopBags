@@ -38,4 +38,4 @@ php artisan serve
 ```
 
 # Privacy policy
-[📜 User Guide]()
+[📜 User Guide](Privacy-policy.txt)
