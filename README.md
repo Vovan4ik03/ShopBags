@@ -35,6 +35,7 @@ php artisan serve
     });
   });
 </script>
+```
 
 # Privacy policy
 [📜 User Guide]()
