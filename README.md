@@ -39,3 +39,6 @@ php artisan serve
 
 # Privacy policy
 [📜 User Guide](Privacy-policy.txt)
+
+# API (POSTMAN)
+- [Docs](https://documenter.getpostman.com/view/34437124/2sAYdbNYHN)
