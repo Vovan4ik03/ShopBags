@@ -16,3 +16,24 @@ php artisan serve
 ### Autor 
 - Done by student Makarov Volodymyr
 - [License](https://github.com/vovan4ik1/ShopBags?tab=MIT-1-ov-file)
+
+### 2. License
+- **Ліцензія:** MIT
+- **Результат перевірки:** Закомічити у файл `license-report.txt`
+
+### 3. Cookie Popup (GDPR)
+- **Функціонал:** Відображення повідомлення про використання файлів cookie
+- **Інструменти:** `cookieconsent` або `klaro`
+- **Імплементація:** Додати у `header.php`
+
+**Приклад у `header.php`:**
+```php
+<script src="cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    cookieconsent.run({
+      notice_banner_type: "interstitial",
+      consent_type: "express"
+    });
+  });
+</script>
