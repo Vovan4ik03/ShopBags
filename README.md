@@ -23,10 +23,9 @@ php artisan serve
 
 # Cookie Popup (GDPR)
 - **Функціонал:** Відображення повідомлення про використання файлів cookie
-- **Інструменти:** `cookieconsent` або `klaro`
-- **Імплементація:** Додати у `header.php`
+- **Інструменти:** `cookieconsent`
 
-**Приклад у `header.php`:**
+**Приклад у `navigation.php`:**
 ```php
 <script src="cookieconsent.min.js"></script>
 <script>
